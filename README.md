@@ -1,5 +1,5 @@
 Hello there!! My name is Hélio Patrício and welcome to my GitHub.👏
-- 🌱 I’m currently learning Html and Css.
+- 📚 I’m currently learning Html and Css.
 <div align="center">
   <a href="https://github.com/helio1997">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=helio1997&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
