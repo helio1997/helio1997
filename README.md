@@ -1,4 +1,4 @@
-Hi there my name is hélio and i from portugal 🇵🇹
+Hi there!!
 - 🌱 I’m currently learning Html and Css.
 <div align="center">
   <a href="https://github.com/helio1997">
